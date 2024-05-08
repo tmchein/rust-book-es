@@ -110,7 +110,7 @@ contar en este programa). La convención de nombramiento de Rust para constantes
 es usar mayúsculas con guiones bajos entre palabras. El compilador es capaz de
 evaluar un conjunto limitado de operaciones en tiempo de compilación, lo que
 nos permite elegir escribir este valor de una manera que sea más fácil de
-entender y verificar, en lugar asignar a esta variable el valor 10,800.
+entender y verificar, en lugar de asignar a esta variable el valor 10,800.
 Vea la ["sección de la Referencia de Rust sobre la evaluación constante"][const-eval]
 para más información sobre qué operaciones se pueden usar al declarar constantes.
 
